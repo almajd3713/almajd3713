@@ -1,6 +1,6 @@
 # Hi, I'm Redhouane
 
-AI student at the National Higher School of Artificial Intelligence (ENSIA) in Algiers.
+Final year AI student at the National Higher School of Artificial Intelligence (ENSIA) in Algiers.
 I build ML research tooling, developer tools, and the backend systems around them.
 
 ### Projects
@@ -13,11 +13,11 @@ I build ML research tooling, developer tools, and the backend systems around the
 
 ### Languages
 
-Python · TypeScript · Go · Rust · Java
+TypeScript · Python · Go · Rust · Java
 
 ### Tools
 
-FastAPI · React · PostgreSQL · Redis · AWS
+AWS . FastAPI · MEPN Stack · NestJS . PostgreSQL . 
 
 ### Contact
 
