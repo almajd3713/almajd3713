@@ -1,24 +1,14 @@
-# Hi, I'm Redhouane
+ # Hi, I'm Redhouane
 
-Final year AI student at the National Higher School of Artificial Intelligence (ENSIA) in Algiers.
-I build ML research tooling, developer tools, and the backend systems around them.
-
-### Projects
-
-- **[speechloom](https://github.com/almajd3713/speechloom)**: local audio and video transcription
-- **[nanoscope](https://github.com/almajd3713/nanoscope)**: reproducible small-model training experiments
-- **[hatui](https://github.com/almajd3713/hacker_tui_sim)**: YAML-driven hacker-style terminal UIs
-- **[codex-mcp](https://github.com/almajd3713/codex_mcp_manager)**: MCP server profile manager for Codex CLI
-- **[TinyJS](https://github.com/almajd3713/TinyJS)**: synthetic JavaScript programs for training code models
-
-### Languages
-
-TypeScript · Python · Go · Rust · Java
-
-### Tools
-
-AWS . FastAPI · MEPN Stack · NestJS . PostgreSQL . 
-
-### Contact
-
-[almajd3713@gmail.com](mailto:almajd3713@gmail.com) · [LinkedIn](https://www.linkedin.com/in/redhouane-lazib-676475276/)
+ Final-year AI student at ENSIA, Algiers.
+ AI Engineer, Full-stack Developer, Hobbyist 
+ 
+ ### Projects
+ 
+ - [nanoscope](https://github.com/almajd3713/nanoscope) - small language model learning, experimentation, research platform
+ - [speechloom](https://github.com/almajd3713/speechloom) - offline audio/video transcription, CLI and web UI
+ - [AI Journey](https://journey.etclub.online) - ETC Club's two ML courses
+ 
+ ### Contact
+ 
+ [almajd3713@gmail.com](mailto:almajd3713@gmail.com) · [LinkedIn](https://www.linkedin.com/in/redhouane-lazib-676475276/)
